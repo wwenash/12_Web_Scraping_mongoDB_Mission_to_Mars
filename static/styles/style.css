@@ -1,0 +1,54 @@
+/* banner at the top of the page */
+.banner{
+    background-color: rgb(165, 20, 23);
+
+}
+
+h1.banner_txt {
+    text-align: center;
+    color: rgb(200,200,200);
+}
+
+#scrape_btn {
+    text-align: center;
+    background-color: rgb(200, 200, 200);
+    color: rgb(0,115,96);
+}
+
+#first_text {
+  background-color: rgb(200, 200, 200);
+}
+
+.container-fluid {
+    background: rgb(108,115,115);
+    outline: .01px double black;
+    padding: 5%;
+}
+
+.data-box {
+    background: rgb(0,115,96);
+    outline: .1px double black;
+    padding: 5%;
+}
+
+figcaption.hemisphere_caption{
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+footer{
+    background-color: darkgray;
+    padding: 15px;
+    height: 60px;
+    width: 100%;
+    border-top: 10px;
+    border-top-color: forestgreen;
+    border-width: 10px;
+    border-top-style: solid;
+    position: absolute;
+    bottom: 0;
+}
